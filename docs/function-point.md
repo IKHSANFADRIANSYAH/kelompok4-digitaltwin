@@ -67,9 +67,9 @@ Target kerja spesifik yang harus diselesaikan pada Sprint 1 (bukan development f
 
 | Task | Deskripsi | Penanggung Jawab |
 |------|-----------|-------------------|
-| Project Charter | Menyusun latar belakang, tujuan, ruang lingkup, struktur tim | Ketua |
-| Perhitungan Function Point | Estimasi ukuran aplikasi berdasarkan fitur yang direncanakan | Anggota 1 |
-| Product Backlog & Sprint 1 Backlog | Menyusun daftar User Stories dan target Sprint 1 | Anggota 2 |
-| Rancangan UX/UI | Membuat wireframe/mockup dashboard awal | Anggota 3 |
-| Rancangan Sistem | Membuat flowchart/diagram arsitektur/ERD | Ketua/Anggota (dibagi) |
-| Inisialisasi Kode Proyek | Setup struktur folder & boilerplate awal | Ketua |
+| Project Charter | Menyusun latar belakang, tujuan, ruang lingkup, struktur tim | Lyebra Hima |
+| Perhitungan Function Point | Estimasi ukuran aplikasi berdasarkan fitur yang direncanakan | Muhammad Zawaata Afnan |
+| Product Backlog & Sprint 1 Backlog | Menyusun daftar User Stories dan target Sprint 1 | Lyebra Hima |
+| Rancangan UX/UI | Membuat wireframe/mockup dashboard awal | Ikhsan Fadriansyah |
+| Rancangan Sistem | Membuat flowchart/diagram arsitektur/ERD | Muhammad Zawaata Afnan |
+| Inisialisasi Kode Proyek | Setup struktur folder & boilerplate awal | Lyebra Hima |
