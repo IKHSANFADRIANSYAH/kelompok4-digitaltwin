@@ -29,6 +29,13 @@ Ruangan kelas atau lab sering tidak nyaman digunakan karena kondisi suhu, kelemb
 
 ### c. Project Setup
 - Struktur folder awal repository:
+  ```
+  /docs        → dokumen sprint, proposal
+  /backend     → server penerima data sensor
+  /frontend    → dashboard
+  /iot         → kode ESP32/Arduino atau dummy_data_generator.py
+  README.md
+  ```
 - Tech stack awal: Python Dummy Data Generator (data), Flask/Node.js (backend), HTML/JS + Chart.js (dashboard awal)
 
 ## 4. Arsitektur Sistem
@@ -69,4 +76,6 @@ Ruangan kelas atau lab sering tidak nyaman digunakan karena kondisi suhu, kelemb
 
 | Nama | NIM | Peran |
 |------|-----|-------|
-| ... | ... | ... |
+| Ikhsan Fadriansyah | 240504134 | UX/UI Designer |
+| Lyebra Hima | 240504038 | Ketua / Scrum Master |
+| Muhammad Zawaata Afnan | 240504098 | Backend Developer |
