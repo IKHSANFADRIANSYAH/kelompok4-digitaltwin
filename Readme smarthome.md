@@ -1,9 +1,9 @@
 ```
 ┌─────────────────────────────────────────────────────┐
-│  🏠 SMART HOME HUB                    STATUS: ONLINE │
-│  ──────────────────────────────────────────────────  │
-│  🌡️  TEMP: 24°C     💧 HUMIDITY: 58%   🟢 ALL NORMAL │
-│  📡 CONNECTED DEVICES: 3                              │
+│  🏠 SMART HOME HUB                   STATUS: ONLINE │
+│  ────────────────────────────────────────────────── │
+│  🌡️  TEMP: 24°C   💧 HUMIDITY: 58%   🟢 ALL NORMAL │
+│  📡 CONNECTED DEVICES: 3                            │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -103,9 +103,9 @@
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│   BUILDING SMARTER SPACES, ONE COMMIT AT A TIME.     │
+│   BUILDING SMARTER SPACES, ONE COMMIT AT A TIME.    │
 │   ═══════════════════════════════════════════════   │
-│              🌡️  💧  🚨  📡  ✅                      │
+│              🌡️  💧  🚨  📡  ✅                   │
 │         SYSTEM STATUS: OPERATIONAL                   │
 │         KELOMPOK 4 — RPL 05 2026                     │
 └─────────────────────────────────────────────────────┘
